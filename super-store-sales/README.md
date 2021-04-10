@@ -8,7 +8,7 @@ The Superstore dataset has details of 9994 orders of products purchased across U
 Findings
 --
 
-<img src="super-store-sales/images/store1.JPG" width="700">
+<img src="https://raw.githubusercontent.com/hrisav/tableau-works/main/super-store-sales/images/store1.JPG" width="700">
 
 **Sub-category wise: Profit vs Sales**
 
@@ -32,7 +32,7 @@ Findings
 * Binders - getting highest discount, but not getting highest sales. So product getting high discount, doesn't mean will give high sales.
 * Chairs and Phones have highest sales, which have average discount of around 15%.
 
-<img src="super-store-sales/images/store2.JPG" width="700">
+<img src="https://raw.githubusercontent.com/hrisav/tableau-works/main/super-store-sales/images/store2.JPG" width="700">
 
 **State wise: Profit vs Sales**
 
